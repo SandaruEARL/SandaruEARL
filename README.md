@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandaruLashan
-- 👀 I’m an Android developer(flutter) with passion for cybersecurity
+- 👀 I’m an Mobile developer(flutter) with passion for cybersecurity
 - 🌱 I’m currently learning native development
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me sandarulashanherman@gmail.com
