@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @SandaruLashan
-- 👀 I’m a mobile application developer(flutter) with passion for cybersecurity
-- 🌱 I’m currently learning native development
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me sandarulashanherman@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: call me buddy
 
-- # Hi, I'm Sandaru Lashan Herman 👋  
-A mobile-focused software developer.
+- # Hello👋  
+I am a mobile-focused software developer.
 
 ---
 
