@@ -33,8 +33,7 @@ A mobile-focused software developer.
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="./Metasploit_logo_and_wordmark.svg.png" alt="Metasploit" width="160" height="45" style="padding: 3px;" />
-  <img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit/metasploit-original.svg" 
-     alt="Metasploit" width="160" height="45"/>
+  [![Metasploit](https://skillicons.dev/icons?i=metasploit)](https://metasploit.com/)
 
   <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
