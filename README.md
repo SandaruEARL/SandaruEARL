@@ -34,6 +34,7 @@ A mobile-focused software developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="./Metasploit_logo_and_wordmark.svg.png" alt="Metasploit" width="160" height="45" style="padding: 3px;" />
   <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50"/>
