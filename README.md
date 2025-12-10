@@ -3,7 +3,7 @@ A mobile-focused software developer.
 
 ---
 
-## ⚙️ Frameworks
+## Frameworks
 
 <div style="display: flex; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
@@ -14,7 +14,7 @@ A mobile-focused software developer.
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 <div style="display: flex; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
@@ -28,7 +28,7 @@ A mobile-focused software developer.
 
 ---
 
-## 🛠️ Platforms & Tools
+## Platforms & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
