@@ -7,8 +7,9 @@ A mobile-focused software developer.
 
 <div style="display: flex; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/android/compose-samples/main/logo/jetpack_compose_icon.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/hexmos/icons/svg/jetpackcompose/jetpackcompose-original.svg" 
      alt="Jetpack Compose" width="50" height="50"/>
+
 </div>
 
 ---
