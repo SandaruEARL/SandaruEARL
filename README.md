@@ -7,8 +7,8 @@ A mobile-focused software developer.
 
 <div style="display: flex; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/hexmos/icons/svg/jetpackcompose/jetpackcompose-original.svg" 
-     alt="Jetpack Compose" width="50" height="50"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50"/>
+
 
 </div>
 
