@@ -45,7 +45,8 @@ A mobile-focused software developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" 
        alt="TensorFlow" width="50" height="50"/>
-  <img src="https://logotyp.us/file/pyqt.svg" alt="PyQt" width="50" height="50"/>
+  <img src="https://logo.svgcdn.com/logos/qt.svg" alt="Qt" width="50" height="50"/>
+
 
 </div>
 
