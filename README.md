@@ -1,5 +1,5 @@
-# Hello, I'm Sandaru Lashan Herman
-A mobile-focused software developer.
+# Hello, I'm Sandaru
+A Software Craftsman
 
 ---
 
