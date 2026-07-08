@@ -1,5 +1,5 @@
 # Hello, I'm Sandaru
-A Software Craftsman
+I am motivated building fast, user-centric software applications and more into mobile applications with security at the core.
 
 ---
 
